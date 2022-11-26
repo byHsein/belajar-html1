@@ -232,11 +232,6 @@ input{
     -ms-transform: translateY(-50%);
     transform: translateY(-50%);
 }
-.btn-hero:hover{
-    background-color: #086ed2;
-    transition: all .5s ease 0s;
-
-}
 
 
 
